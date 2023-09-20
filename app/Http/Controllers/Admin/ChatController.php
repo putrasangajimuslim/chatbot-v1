@@ -13,7 +13,7 @@ class ChatController extends Controller
     }
 
     public function getQuestionAnswerOpenAi(Request $request) {
-        $apiKeyOpenAi = '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';
+        $apiKeyOpenAi = '';
 
         // $prompt = 'perbedaan sapi dan kerbau';
 
